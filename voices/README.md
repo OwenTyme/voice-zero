@@ -1,0 +1,42 @@
+# File Sources
+
+
+
+
+| Name or Username  | File Name | Accent | Source |
+| ------------ | --------- | ------ | ------ |
+| [Alana Jordan](https://librivox.org/reader/2481) | alana_jordan.flac | American, Midwest | [Celebration of Dialects and Accents, Vol 1, Track 20](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Alan Davis Drake](https://librivox.org/reader/254) | alan_davis_drake.flac | American, New York City | [Celebration of Dialects and Accents, Vol 1, Track 30](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Andi](https://librivox.org/reader/4291) | andi.flac | American, Texas | [Celebration of Dialects and Accents, Vol 1, Track 28](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Anna Simon](https://librivox.org/reader/1724) | anna_simon.flac | Dutch | [Celebration of Dialects and Accents, Vol 1, Track 7](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Annise]() | annise.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 3](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Ben Gr](https://librivox.org/reader/4318) | ben_gr.flac | American, Western | [Celebration of Dialects and Accents, Vol 1, Track 34](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Bridget Gaige](https://librivox.org/reader/3584) | bridget_gaige.flac | American, Upstate New York | [Celebration of Dialects and Accents, Vol 1, Track 12](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Bellona Times.flac](https://librivox.org/reader/3657) | bellona_times.flac | American, 'Air Force Brat' | [Celebration of Dialects and Accents, Vol 1, Track 8](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Délibáb](https://librivox.org/reader/1790) | delibab.flac | Northern Ireland | [Celebration of Dialects and Accents, Vol 1, Track 31](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [dullstar](https://librivox.org/reader/4252) | dullstar.flac | American, West Central Pennsylvania | [Celebration of Dialects and Accents, Vol 1, Track 23](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Elli](https://librivox.org/reader/3885) | elli.flac | Austrian (German) | [Celebration of Dialects and Accents, Vol 1, Track 5](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Ernst Pattynama](https://librivox.org/reader/2825) | ernst_pattynama.flac | English, mother tongue Dutch | [Celebration of Dialects and Accents, Vol 1, Track 16](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Ezwa](https://librivox.org/reader/123) | ezwa.flac | French | [Celebration of Dialects and Accents, Vol 1, Track 32](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [David Cole](https://librivox.org/reader/4218) | david_cole.flac | English, 'honed-off' Black Country | [Celebration of Dialects and Accents, Vol 1, Track 11](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Diana Majlinger](https://librivox.org/reader/4009) | diana_majlinger.flac | Hungarian | [Celebration of Dialects and Accents, Vol 1, Track 6](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Graeme Dunlop](https://librivox.org/reader/4172) | graeme_dunlop.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 15](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Jessi](https://librivox.org/reader/3990) | jessi.flac | German | [Celebration of Dialects and Accents, Vol 1, Track 21](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Joy Easton](https://librivox.org/reader/3972) | joy_easton.flac | American, Southern Indiana | [Celebration of Dialects and Accents, Vol 1, Track 27](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Julie VW](https://librivox.org/reader/2506) | julie_vw.flac | Slight Flemish, slight | [Celebration of Dialects and Accents, Vol 1, Track 1](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Kara Shallenberg](https://librivox.org/reader/19) | kara_shallenberg.flac | American, Southern California | [Celebration of Dialects and Accents, Vol 1, Track 17](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Laurie Anne Walden](https://librivox.org/reader/1066) | laurie_anne_walden.flac | American, South Carolina | [Celebration of Dialects and Accents, Vol 1, Track 14](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Lucy Burgoyne](https://librivox.org/reader/681) | lucy_burgoyne.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 35](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Magdalena](https://librivox.org/reader/3318) | magdalena.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 25](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Marianne Coleman-Hipkins](https://librivox.org/reader/3928) | marianne_coleman-hipkins.flac | New Zealand, Central North Island | [Celebration of Dialects and Accents, Vol 1, Track 13](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [May Low](https://librivox.org/reader/4313) | may_low.flac | Australian, Metropolitan | [Celebration of Dialects and Accents, Vol 1, Track 33](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Mezzogal](https://librivox.org/reader/4244) | mezzogal.flac | Chinese, Singaporean | [Celebration of Dialects and Accents, Vol 1, Track 18](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Padraig O'hIceadha](https://librivox.org/reader/2588) | padraig_o'hiceadha-lyrical.flac | Irish | [Celebration of Dialects and Accents, Vol 1, Track 2](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Peter Yearsley](https://librivox.org/reader/167) | peter_yearsley.flac | English, South-East London | [Celebration of Dialects and Accents, Vol 1, Track 9](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Ruth Golding](https://librivox.org/reader/2607) | ruth_golding.flac | English, RP ('no regional accent') | [Celebration of Dialects and Accents, Vol 1, Track 4](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Sean Michael Hogan](https://librivox.org/reader/3923) | sean_michael_hogan.flac | Canadian, Newfoundland | [Celebration of Dialects and Accents, Vol 1, Track 20](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Semantic Nuance](https://librivox.org/reader/3887) | semantic_nuance.flac | Chinese, Taiwan | [Celebration of Dialects and Accents, Vol 1, Track 10](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Sonja](https://librivox.org/reader/1998) | sonja.flac | German | [Celebration of Dialects and Accents, Vol 1, Track 29](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Stuart Bell](https://librivox.org/reader/1870) | stuart_bell.flac | English, neutral, southern | [Celebration of Dialects and Accents, Vol 1, Track 26](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Timothy Ferguson](https://librivox.org/reader/3618) | timothy_ferguson.flac | Australian, cultivated | [Celebration of Dialects and Accents, Vol 1, Track 24](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Tricia G](https://librivox.org/reader/3157) | tricia_g.flac | American, Minnesota | [Celebration of Dialects and Accents, Vol 1, Track 19](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
