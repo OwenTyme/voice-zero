@@ -6,7 +6,7 @@
 | [Alan Davis Drake](https://librivox.org/reader/254) | alan_davis_drake.flac | American, New York City | [Celebration of Dialects and Accents, Vol 1, Track 30](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Alan Davis Drake](https://librivox.org/reader/254) | alan_davis_drave2.flac | American, New York City | [Abraham Lincoln Walks at Midnight, Track 1](https://librivox.org/abraham-lincoln-walks-at-midnight-by-vachel-lindsay/) |
 | [Andi](https://librivox.org/reader/4291) | andi.flac | American, Texas | [Celebration of Dialects and Accents, Vol 1, Track 28](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
-| [Andy](https://librivox.org/reader/2262) | andy.flac | Scotish | [Zadig or the Book of Fate, Track 11](https://librivox.org/zadig-or-the-book-of-fate-by-voltaire/) |
+| [Andy](https://librivox.org/reader/2262) | andy.flac | Scottish | [Zadig or the Book of Fate, Track 11](https://librivox.org/zadig-or-the-book-of-fate-by-voltaire/) |
 | [Anna Simon](https://librivox.org/reader/1724) | anna_simon.flac | Dutch | [Celebration of Dialects and Accents, Vol 1, Track 7](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Annise]() | annise.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 3](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Ben Gr](https://librivox.org/reader/4318) | ben_gr.flac | American, Western | [Celebration of Dialects and Accents, Vol 1, Track 34](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
