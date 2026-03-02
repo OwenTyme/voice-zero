@@ -1,0 +1,1 @@
+Unless otherwise noted, all files in this repository are CC0/public domain.  Currently, everything is based on samples from [LibriVox.org](https://librivox.org/).
