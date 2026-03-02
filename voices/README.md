@@ -1,7 +1,4 @@
-# File Sources
-
-
-
+# Sources for this Directory
 
 | Name or Username  | File Name | Accent | Source |
 | ------------ | --------- | ------ | ------ |
