@@ -9,6 +9,7 @@ The secondary goal is to provide a very clear trail from the final voice samples
 A variety of tools were used to clean up the source data as much as possible, including the following:
 
 * [Audacity](https://www.audacityteam.org/)
+* [SoX](https://en.wikipedia.org/wiki/SoX)
 * [RNNoise](https://github.com/xiph/rnnoise)
 * [Resemble Enhance](https://github.com/resemble-ai/resemble-enhance)
 
