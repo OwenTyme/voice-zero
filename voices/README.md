@@ -51,7 +51,7 @@
 | [Kristin Barkhurst](https://librivox.org/reader/19894) | kristin_barkhurst.flac | American | [Holiday Stories for Young People, Track 32](https://librivox.org/holiday-stories-for-young-people-by-various/) |
 | [Kristin Hughes](https://librivox.org/reader/28) | kristin_hughes.flac | American, Iown | [Anne of the Island, Track 20](https://librivox.org/anne-of-the-island-by-lucy-maud-montgomery/) |
 | [Kristin Hughes](https://librivox.org/reader/28) | kristin_huges-angry.flac | American, Iown | [Heroides, Track 10](https://librivox.org/heroides-by-ovid/) |
-| [Kristin Hughes](https://librivox.org/reader/28) | kristin_hughes-expressive.flac and kristin_hughes-poetic.flac | American, Iown | [Jabberwocky, Version 19](https://librivox.org/jabberwocky-by-lewis-carroll/) |
+| [Kristin Hughes](https://librivox.org/reader/28) | kristin_hughes-expressive.flac<br/>kristin_hughes-poetic.flac | American, Iown | [Jabberwocky, Version 19](https://librivox.org/jabberwocky-by-lewis-carroll/) |
 | [Kristin Hughes](https://librivox.org/reader/28) | kristin_huges-sad.flac | American, Iown | [A Dream within a Dream, Track 10](https://librivox.org/a-dream-within-a-dream-by-edgar-allan-poe/) |
 | [Kyle Donelan](https://librivox.org/reader/11659) | kyle_donelan.flac | American | [Cossack Fairy Tales, Track 18](https://librivox.org/cossack-fairy-tales-by-robert-nisbet-bain/) |
 | [Larry Wilson](https://librivox.org/reader/8425) | larry_wilson.flac | American | [The Adventures of Lightfoot the Deer, Track 10](https://librivox.org/the-adventures-of-lightfoot-the-deer-by-thornton-w-burgess/) |
@@ -77,7 +77,7 @@
 | [Perry Clayton](https://librivox.org/reader/2612) | perry_clayton.flac | American, Western | [Short Science Fiction Collection 006, Track 4](https://librivox.org/short-science-fiction-collection-vol-006/) |
 | [Peter Yearsley](https://librivox.org/reader/167) | peter_yearsley.flac | English, London, South-East | [Celebration of Dialects and Accents, Vol 1, Track 9](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Phil Chenevert](https://librivox.org/reader/5717) | phil_chenevert.flac | American | [Careers of Danger and Daring, Track 26](https://librivox.org/careers-of-danger-and-daring-by-cleveland-moffett/) |
-| [Rachael Nowotny](https://librivox.org/reader/8171) | rachael_nowotny.flac and rachael_nowotny2.flac | Scottish | [Short Story Collection Vol. 055, Track 17](https://librivox.org/short-story-collection-vol-055-by-various/) |
+| [Rachael Nowotny](https://librivox.org/reader/8171) | rachael_nowotny.flac<br/>rachael_nowotny2.flac | Scottish | [Short Story Collection Vol. 055, Track 17](https://librivox.org/short-story-collection-vol-055-by-various/) |
 | [Rebecca Braunert-Plunkett](https://librivox.org/reader/8470) | rebecca_braunert-plunkett.flac | German/Mixed bag | [Celebration of Dialects and Accents, Vol 2, Track 15](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Rosslyn Carlyle](https://librivox.org/reader/9331) | rosslyn_carlyle.flac | Scottish | [The Revelation, Track 15](https://librivox.org/the-revelation-by-coventry-patmore/) |
 | [Ruth Golding](https://librivox.org/reader/2607) | ruth_golding.flac | English, Received Pronunciation ('No regional accent') | [Celebration of Dialects and Accents, Vol 1, Track 4](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
