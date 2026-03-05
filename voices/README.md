@@ -25,6 +25,7 @@
 | [Cori Samuel](https://librivox.org/reader/92) | cori_samuel.flac | English | [Black Beauty (version 2), Track 1](https://librivox.org/black-beauty-by-anna-sewell-version-2/) |
 | [David Cole](https://librivox.org/reader/4218) | david_cole.flac | English, 'honed-off' Black Country | [Celebration of Dialects and Accents, Vol 1, Track 11](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [David Clark](https://librivox.org/reader/7408) | david_clark.flac | English | [The Count of Monte Cristo (version 3), Track 117](https://librivox.org/the-count-of-monte-cristo-version-3-by-alexandre-dumas/) |
+| [David Wales](https://librivox.org/reader/6454) | david_wales.flac | American | [Five Tales, Track 1](https://librivox.org/five-tales-by-john-galsworthy/) |
 | [Délibáb](https://librivox.org/reader/1790) | delibab.flac | Irish, Northern | [Celebration of Dialects and Accents, Vol 1, Track 31](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Devorah Allen](https://librivox.org/reader/11084) | devorah_allen.flac | American | [LibriVox 20th Anniversary Collection, Track 1](https://librivox.org/librivox-20th-anniversary-collection-by-various/) |
 | [Diana Majlinger](https://librivox.org/reader/4009) | diana_majlinger.flac | Hungarian | [Celebration of Dialects and Accents, Vol 1, Track 6](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
