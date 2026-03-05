@@ -2,7 +2,7 @@
 
 | Name or Username  | File Name | Accent | Source |
 | ------------ | --------- | ------ | ------ |
-| [A. Janelle Risa](https://librivox.org/reader/4214) | a_janelle_risa.flac.flac | American, Midwest | [Anne of Green Gables (version 5), Track 16](https://librivox.org/anne-of-green-gables-version-5-by-lucy-maud-montgomery/) |
+| [A. Janelle Risa](https://librivox.org/reader/4214) | a_janelle_risa.flac.flac | American | [Anne of Green Gables (version 5), Track 16](https://librivox.org/anne-of-green-gables-version-5-by-lucy-maud-montgomery/) |
 | [Alana Jordan](https://librivox.org/reader/2481) | alana_jordan.flac | American, Midwest | [Celebration of Dialects and Accents, Vol 1, Track 20](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Alan Davis Drake](https://librivox.org/reader/254) | alan_davis_drake.flac | American, New York City | [Celebration of Dialects and Accents, Vol 1, Track 30](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Alan Davis Drake](https://librivox.org/reader/254) | alan_davis_drave2.flac | American, New York City | [Abraham Lincoln Walks at Midnight, Track 1](https://librivox.org/abraham-lincoln-walks-at-midnight-by-vachel-lindsay/) |
@@ -76,6 +76,7 @@
 | [Padraig O'hIceadha](https://librivox.org/reader/2588) | padraig_o'hiceadha-lyrical.flac | Irish | [Celebration of Dialects and Accents, Vol 1, Track 2](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Pam Castille](https://librivox.org/reader/8664) | pam_castille.flac | American, South Louisiana | [Celebration of Dialects and Accents, Vol 2, Track 14](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Perry Clayton](https://librivox.org/reader/2612) | perry_clayton.flac | American, Western | [Short Science Fiction Collection 006, Track 4](https://librivox.org/short-science-fiction-collection-vol-006/) |
+| [Peter Bishop](https://librivox.org/reader/6037) | peter_bishop.flac | English | [Short Ghost and Horror Collection 012, Track 20](https://librivox.org/short-ghost-and-horror-collection-012-by-various/) |
 | [Peter Yearsley](https://librivox.org/reader/167) | peter_yearsley.flac | English, London, South-East | [Celebration of Dialects and Accents, Vol 1, Track 9](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Phil Chenevert](https://librivox.org/reader/5717) | phil_chenevert.flac | American | [Careers of Danger and Daring, Track 26](https://librivox.org/careers-of-danger-and-daring-by-cleveland-moffett/) |
 | [Rachael Nowotny](https://librivox.org/reader/8171) | rachael_nowotny.flac<br/>rachael_nowotny2.flac | Scottish | [Short Story Collection Vol. 055, Track 17](https://librivox.org/short-story-collection-vol-055-by-various/) |
