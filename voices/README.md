@@ -52,10 +52,10 @@
 | [Kris Moore](https://librivox.org/reader/8841) | kris_moore.flac | Australian | [Celebration of Dialects and Accents, Vol 2, Track 10](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Kristen McQuillin](https://librivox.org/reader/89) | kristen_mcquillin.flac | American | [The Call of the Wild, Track 3](https://librivox.org/call-of-the-wild-by-jack-london/) |
 | [Kristin Barkhurst](https://librivox.org/reader/19894) | kristin_barkhurst.flac | American | [Holiday Stories for Young People, Track 32](https://librivox.org/holiday-stories-for-young-people-by-various/) |
-| [Kristin Hughes](https://librivox.org/reader/28) | kristin_hughes.flac | American, Iown | [Anne of the Island, Track 20](https://librivox.org/anne-of-the-island-by-lucy-maud-montgomery/) |
-| [Kristin Hughes](https://librivox.org/reader/28) | kristin_huges-angry.flac | American, Iown | [Heroides, Track 10](https://librivox.org/heroides-by-ovid/) |
-| [Kristin Hughes](https://librivox.org/reader/28) | kristin_hughes-expressive.flac<br/>kristin_hughes-poetic.flac | American, Iown | [Jabberwocky, Version 19](https://librivox.org/jabberwocky-by-lewis-carroll/) |
-| [Kristin Hughes](https://librivox.org/reader/28) | kristin_huges-sad.flac | American, Iown | [A Dream within a Dream, Track 10](https://librivox.org/a-dream-within-a-dream-by-edgar-allan-poe/) |
+| [Kristin Hughes](https://librivox.org/reader/28) | kristin_hughes.flac | American, Iowa | [Anne of the Island, Track 20](https://librivox.org/anne-of-the-island-by-lucy-maud-montgomery/) |
+| [Kristin Hughes](https://librivox.org/reader/28) | kristin_huges-angry.flac | American, Iowa | [Heroides, Track 10](https://librivox.org/heroides-by-ovid/) |
+| [Kristin Hughes](https://librivox.org/reader/28) | kristin_hughes-expressive.flac<br/>kristin_hughes-poetic.flac | American, Iowa | [Jabberwocky, Version 19](https://librivox.org/jabberwocky-by-lewis-carroll/) |
+| [Kristin Hughes](https://librivox.org/reader/28) | kristin_huges-sad.flac | American, Iowa | [A Dream within a Dream, Track 10](https://librivox.org/a-dream-within-a-dream-by-edgar-allan-poe/) |
 | [Kyle Donelan](https://librivox.org/reader/11659) | kyle_donelan.flac | American | [Cossack Fairy Tales, Track 18](https://librivox.org/cossack-fairy-tales-by-robert-nisbet-bain/) |
 | [Larry Wilson](https://librivox.org/reader/8425) | larry_wilson.flac | American | [The Adventures of Lightfoot the Deer, Track 10](https://librivox.org/the-adventures-of-lightfoot-the-deer-by-thornton-w-burgess/) |
 | [Laura Caldwell](https://librivox.org/reader/1841) | laura_caldwell.flac | American, Southern | [The Yellow Fairy Book, Track 9](https://librivox.org/the-yellow-fairy-book-by-andrew-lang/) |
