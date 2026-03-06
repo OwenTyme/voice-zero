@@ -10,7 +10,7 @@ The emotions currently available are: anger, calm, confused, enthused, excited, 
 
 Some voices worked better than others this way and some specific combinations were quite difficult to get sane results with.  Along the way, it was discovered that Chatterbox has a strange tendency to babble incoherently, scream, laugh and giggle.  It also randomly shouts curse words and other foul language, leaving one wondering what in the world it was trained on.
 
-The following emotions were the most troublesome: 'anger','enthused' and 'excited'.
+The following emotions were the most troublesome: 'anger', 'enthused' and 'excited'.
 
 In a strange turn of events, the voices that gave the least trouble were those that started out calm and at a slow pace.  Donald Malone is an excellent example of that, which is the only voice that wasn't at all problematic, producing usable results on the first try, for all emotions.
 
