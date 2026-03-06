@@ -8,7 +8,7 @@ Once the samples were produced, they were run through [Resemble Enhance](https:/
 
 The emotions currently available are: anger, calm, confused, enthused, excited, frustrated, happy, neutral, sad, shout, surprised, tired and worried.  That should cover most needs, at least in the way of standard emotions.  Small speed changes with the final TTS engine could possibly push things a little further, with slow anger serving as menace and fast anger potentially coming across as rage.
 
-Some voices worked better than others this way and some specific combination were quite difficult to get sane results with.  Along the way, it was discovered that Chatterbox has a strange tendency to babble incoherently, scream, laugh and giggle.  It also randomly shouts curse words and other foul language, leaving one wondering what in the world it was trained on.
+Some voices worked better than others this way and some specific combinations were quite difficult to get sane results with.  Along the way, it was discovered that Chatterbox has a strange tendency to babble incoherently, scream, laugh and giggle.  It also randomly shouts curse words and other foul language, leaving one wondering what in the world it was trained on.
 
 The following emotions were the most troublesome: 'anger','enthused' and 'excited'.
 
