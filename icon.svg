@@ -7,7 +7,7 @@
    viewBox="0 0 512 512"
    version="1.1"
    id="svg1"
-   sodipodi:docname="Voice Zero - Icon.svg"
+   sodipodi:docname="icon.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.5976562"
+     inkscape:zoom="1.4941406"
      inkscape:cx="256"
-     inkscape:cy="256"
+     inkscape:cy="255.66536"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
      inkscape:window-x="1920"
@@ -541,20 +541,17 @@
          fill="#676867"
          id="path103" />
     </g>
-    <g
-       id="g5">
-      <text
-         style="font-weight:bold;font-size:373.333px;line-height:1;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:3.78;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter5)"
-         transform="matrix(1.6882006,0,0,1.6882006,-209.46465,-155.51314)"
-         x="163.71683"
-         y="374.98483"
-         id="text3">0</text>
-      <text
-         style="font-weight:bold;font-size:373.333px;line-height:1;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.78;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter4)"
-         transform="matrix(1.6882006,0,0,1.6882006,-209.46465,-155.51314)"
-         x="163.71683"
-         y="374.98483"
-         id="text4">0</text>
-    </g>
+    <text
+       style="font-weight:bold;font-size:373.333px;line-height:1;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:#3078bf;fill-opacity:1;stroke:#000000;stroke-width:3.78;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter5)"
+       transform="matrix(1.6882006,0,0,1.6882006,-209.46465,-155.51314)"
+       x="163.71683"
+       y="374.98483"
+       id="text3">0</text>
+    <text
+       style="font-weight:bold;font-size:373.333px;line-height:1;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.78;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter4)"
+       transform="matrix(1.6882006,0,0,1.6882006,-209.46465,-155.51314)"
+       x="163.71683"
+       y="374.98483"
+       id="text4">0</text>
   </g>
 </svg>
