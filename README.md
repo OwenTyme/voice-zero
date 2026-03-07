@@ -1,5 +1,7 @@
 # Voice-Zero
 
+<img align="right" width="256" src="icon.svg">
+
 This is a collection of open source compatible voice samples mostly from public domain and Creative Commons works, which are suitable for use with zero-shot text to speech engines.
 
 The primary goal of this repository is to provide high quality voice samples that are ready to use, as-is, with zero-shot TTS engines like [Chatterbox](https://github.com/resemble-ai/chatterbox) and [Pocket TTS](https://github.com/kyutai-labs/pocket-tts).
