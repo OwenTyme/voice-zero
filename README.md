@@ -16,8 +16,17 @@ A variety of tools were used to clean up the source data as much as possible, in
 * [Resemble Enhance](https://github.com/resemble-ai/resemble-enhance)
 
 
+## Notes on Directories
+
+The [voices directory](voices) holds audio samples from [LibriVox.org](https://librivox.org), which have been noise reduced and trimmed to between seven and roughly twelve seconds, a length that works well for zero-shot TTS engines.  This directory will *always* hold [CC0-licensed](https://creativecommons.org/public-domain/cc0/) samples.
+
+The [voices-emotion directory](voices-emotion) holds synthetic audio samples produced by using [voices directory](voices) with [Chatterbox](https://github.com/resemble-ai/chatterbox), to produce emotional variations.
+
+If there are ever samples under other licenses, they will be placed in other directories, to keep the licensing issues clear and easy to work with.
+
+
 ## License
 
-Unless otherwise noted, all files in this repository are under the [CC0](https://creativecommons.org/public-domain/cc0/) license.  Currently, everything is based on samples from [LibriVox.org](https://librivox.org/).
+Unless otherwise noted, all files in this repository are under the [CC0 license](https://creativecommons.org/public-domain/cc0/).  Currently, everything is based on samples from [LibriVox.org](https://librivox.org/).
 
 For more specific details, please examine the `README.md` files of each subdirectory, which will also provide the names of the voice actors and links to the original sources.
