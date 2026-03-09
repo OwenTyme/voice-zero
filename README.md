@@ -11,9 +11,24 @@ The secondary goal is to provide a very clear trail from the final voice samples
 A variety of tools were used to clean up the source data as much as possible, including the following:
 
 * [Audacity](https://www.audacityteam.org/)
+	- The built-in noise remover can be handy
+* [Kanade Tokenizer](https://github.com/frothywater/kanade-tokenizer)
+	- Amazing tool that operates in two modes:
+		+ Voice Conversion
+		+ Voice Resynthesis
+			* This analyzes the voice, producing an ideal, noise-free version
+			* That is then used to voice-convert the original sample, removing noise, which even works on reverb!
+		+ It's extremely fast, especially compared to the [Chatterbox](https://github.com/resemble-ai/chatterbox) voice converter
 * [SoX](https://en.wikipedia.org/wiki/SoX)
-* [RNNoise](https://github.com/xiph/rnnoise)
+	- Involved in scripting the other tools, mostly for on the fly format conversion
 * [Resemble Enhance](https://github.com/resemble-ai/resemble-enhance)
+	- AI noise remover and audio up-scaler
+	- This is used as the final step for each voice sample
+	- It does a good job removing the noise [Chatterbox](https://github.com/resemble-ai/chatterbox) tends to introduce
+* [RNNoise](https://github.com/xiph/rnnoise)
+	- AI noise remover
+	- Works quite well with VAD% set to 99
+		+ The default of 50% is terribly ridiculous
 
 
 ## Notes on Directories
