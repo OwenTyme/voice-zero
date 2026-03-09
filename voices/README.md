@@ -6,6 +6,7 @@
 | [Alana Jordan](https://librivox.org/reader/2481) | alana_jordan.flac | American, Midwest | [Celebration of Dialects and Accents, Vol 1, Track 20](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Alan Davis Drake](https://librivox.org/reader/254) | alan_davis_drake.flac | American, New York City | [Celebration of Dialects and Accents, Vol 1, Track 30](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Alan Davis Drake](https://librivox.org/reader/254) | alan_davis_drave2.flac | American, New York City | [Abraham Lincoln Walks at Midnight, Track 1](https://librivox.org/abraham-lincoln-walks-at-midnight-by-vachel-lindsay/) |
+| [Alec Daitsman](https://librivox.org/reader/2272) | alec_daitsman.flac | American | [Famous Men of the Middle Ages, Track 12](https://librivox.org/famous-men-of-the-middle-ages-by-john-h-haaren-and-a-b-poland/) |
 | [Amy Koenig](https://librivox.org/reader/6620) | amy_koenig.flac | American | [Love and Friendship, Track 1](https://librivox.org/love-and-friendship-by-emily-bronte/) |
 | [Andi](https://librivox.org/reader/4291) | andi.flac | American, Texas | [Celebration of Dialects and Accents, Vol 1, Track 28](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Andy](https://librivox.org/reader/2262) | andy.flac | Scottish | [Zadig or the Book of Fate, Track 11](https://librivox.org/zadig-or-the-book-of-fate-by-voltaire/) |
