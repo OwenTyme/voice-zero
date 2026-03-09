@@ -93,6 +93,7 @@
 | [Semantic Nuance](https://librivox.org/reader/3887) | semantic_nuance.flac | Chinese, Taiwan | [Celebration of Dialects and Accents, Vol 1, Track 10](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Simon Evers](https://librivox.org/reader/1255) | simon_evers.flac | English, Public School (Received Pronunciation) | [Celebration of Dialects and Accents, Vol 2, Track 18](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Sonja](https://librivox.org/reader/1998) | sonja.flac | German | [Celebration of Dialects and Accents, Vol 1, Track 29](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Stephanie Dupal-Demartin](https://librivox.org/reader/2085) | stephanie_dupal-demartin.flac | American | [My Ántonia, Track 15](https://librivox.org/my-antonia-by-willa-cather/) |
 | [stepheather](https://librivox.org/reader/1668) | stepheather.flac | American | [Far Away and Long Ago, Track 9](https://librivox.org/far-away-and-long-ago-by-wh-hudson/) |
 | [Steve C](https://librivox.org/reader/7389) | steve_c.flac | English | [A Year's Prayer-Meeting Talks, Track 10](https://librivox.org/a-years-prayer-meeting-talks-by-louis-albert-banks/) |
 | [Steve Lawrence](https://librivox.org/reader/8691) | steve_lawrence.flac | English, Mid-England | [Celebration of Dialects and Accents, Vol 2, Track 20](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
