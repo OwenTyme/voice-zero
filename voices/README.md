@@ -42,6 +42,7 @@
 | [Greg Giordano](https://librivox.org/reader/8011) | greg_giordano.flac | American, Southeastern Pennsylvania | [Celebration of Dialects and Accents, Vol 2, Track 7](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Ian Skillen](https://librivox.org/reader/1230) | ian_skillen.flac | Scottish | [The Clue of the Twisted Candle, Track 22](https://librivox.org/the-clue-of-the-twisted-candle-by-edgar-wallace/) |
 | [Jason Mills](https://librivox.org/reader/3470) | jason_mills.flac | English, Lancashire | [Celebration of Dialects and Accents, Vol 2, Track 8](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
+| [Jeanni Hall](https://librivox.org/reader/7416) | jeanni_hall.flac | American | [In the Nursery of My Bookhouse, Track 52](https://librivox.org/in-the-nursery-of-my-bookhouse-by-olive-beaupre-miller/) |
 | [Jessi](https://librivox.org/reader/3990) | jessi.flac | German | [Celebration of Dialects and Accents, Vol 1, Track 21](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Jodi Krangle](https://librivox.org/reader/2061) | jodi_krangle.flac | American | [Short Science Fiction Collection 002, Track 5](https://librivox.org/short-science-fiction-collection-vol-002/) |
 | [Joy Easton](https://librivox.org/reader/3972) | joy_easton.flac | American, Southern Indiana | [Celebration of Dialects and Accents, Vol 1, Track 27](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
