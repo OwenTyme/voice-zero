@@ -44,4 +44,4 @@ If there are ever samples under other licenses, they will be placed in other dir
 
 Unless otherwise noted, all files in this repository are under the [CC0 license](https://creativecommons.org/public-domain/cc0/).  Currently, everything is based on samples from [LibriVox.org](https://librivox.org/).
 
-For more specific details, please examine the `README.md` files of each subdirectory, which will also provide the names of the voice actors and links to the original sources.
+For more specific details, please examine the `README.md` files in each subdirectory, which will also provide the names of the voice actors and links to the original sources.
