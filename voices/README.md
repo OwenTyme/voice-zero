@@ -44,6 +44,7 @@
 | [Ernst Pattynama](https://librivox.org/reader/2825) | ernst_pattynama.flac | English, Mother tongue: Dutch | [Celebration of Dialects and Accents, Vol 1, Track 16](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Ernst Pattynama](https://librivox.org/reader/2825) | ernst_pattynama2.flac | Dutch | [Celebration of Dialects and Accents, Vol 2, Track 6](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Ezwa](https://librivox.org/reader/123) | ezwa.flac | French | [Celebration of Dialects and Accents, Vol 1, Track 32](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [George Fairchild](https://librivox.org/reader/3105) | george_fairchild.flac | American | [The Miracle Mongers, an Exposé, Track 7](https://librivox.org/the-miracle-mongers-an-expose-by-harry-houdini/) |
 | [Graeme Dunlop](https://librivox.org/reader/4172) | graeme_dunlop.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 15](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Greg Giordano](https://librivox.org/reader/8011) | greg_giordano.flac | American, Southeastern Pennsylvania | [Celebration of Dialects and Accents, Vol 2, Track 7](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Ian Skillen](https://librivox.org/reader/1230) | ian_skillen.flac | Scottish | [The Clue of the Twisted Candle, Track 22](https://librivox.org/the-clue-of-the-twisted-candle-by-edgar-wallace/) |
