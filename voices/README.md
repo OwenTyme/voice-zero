@@ -93,6 +93,7 @@
 | [Phil Chenevert](https://librivox.org/reader/5717) | phil_chenevert.flac | American | [Careers of Danger and Daring, Track 26](https://librivox.org/careers-of-danger-and-daring-by-cleveland-moffett/) |
 | [Rachael Nowotny](https://librivox.org/reader/8171) | rachael_nowotny.flac<br/>rachael_nowotny2.flac | Scottish | [Short Story Collection Vol. 055, Track 17](https://librivox.org/short-story-collection-vol-055-by-various/) |
 | [Rebecca Braunert-Plunkett](https://librivox.org/reader/8470) | rebecca_braunert-plunkett.flac | German/Mixed bag | [Celebration of Dialects and Accents, Vol 2, Track 15](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
+| [Robert Garrison](https://librivox.org/reader/439) | robert_garrison.flac | American | [The Hunting of the Snark, Track 1](https://librivox.org/the-hunting-of-the-snark-by-lewis-carroll/) |
 | [Rosslyn Carlyle](https://librivox.org/reader/9331) | rosslyn_carlyle.flac | Scottish | [The Revelation, Track 15](https://librivox.org/the-revelation-by-coventry-patmore/) |
 | [Ruth Golding](https://librivox.org/reader/2607) | ruth_golding.flac | English, Received Pronunciation ('No regional accent') | [Celebration of Dialects and Accents, Vol 1, Track 4](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Ryan Bradburn](https://librivox.org/reader/8685) | ryan_bradburn.flac | American, Kansas/Widwest | [Celebration of Dialects and Accents, Vol 2, Track 16](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
