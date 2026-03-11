@@ -80,6 +80,7 @@
 | [Maria Kasper](https://librivox.org/reader/8051) | maria_kasper2.flac | American, Great Lakes | [Chore Time, Track 8](https://librivox.org/chore-time-by-jean-mckishnie-blewett/) |
 | [Mark F. Smith](https://librivox.org/reader/204) | mark_f_smith.flac | American | [The Young Railroaders, Track 1](https://librivox.org/the-young-railroaders-by-francis-lovell-coombs/) |
 | [Mark Nelson](https://librivox.org/reader/251) | mark_nelson.flac | American | [After World's End, Track 0](https://librivox.org/after-worlds-end-by-jack-williamson/) |
+| [Melora](https://librivox.org/reader/8075) | melora.flac | American | [Buttercup Gold And Other Stories, Track 2](https://librivox.org/buttercup-gold-and-other-stories-by-ellen-robena-field/) |
 | [Mezzogal](https://librivox.org/reader/4244) | mezzogal.flac | Chinese, Singapore | [Celebration of Dialects and Accents, Vol 1, Track 18](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Mike Pelton](https://librivox.org/reader/6670) | mike_pelton.flac | American | [The Adventures of Buffalo Bill, Track 9](https://librivox.org/the-adventures-of-buffalo-bill-by-william-f-cody-col/) |
 | [Nicholas James Bridgewater](https://librivox.org/reader/1618) | nicholas_james_bridgewater.flac | English, Mid-Atlantic | [Celebration of Dialects and Accents, Vol 2, Track 13](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
