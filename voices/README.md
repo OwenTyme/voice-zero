@@ -28,6 +28,7 @@
 | [Claudia Salto](https://librivox.org/reader/8337) | claudia_salto.flac | German | [Celebration of Dialects and Accents, Vol 2, Track 3](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Cori Samuel](https://librivox.org/reader/92) | cori_samuel.flac | English | [Black Beauty (version 2), Track 1](https://librivox.org/black-beauty-by-anna-sewell-version-2/) |
 | [Dave Chase](https://librivox.org/reader/2992) | dave_chase.flac | American | [At the Earth's Core, Track 5](https://librivox.org/at-the-earths-core-by-edgar-rice-burroughs/) |
+| [Dan Mason](https://librivox.org/reader/7828) | dan_mason.flac | American | [Tarzan the Untamed, Track 14](https://librivox.org/tarzan-the-untamed-by-edgar-rice-burroughs/) |
 | [David Cole](https://librivox.org/reader/4218) | david_cole.flac | English, 'honed-off' Black Country | [Celebration of Dialects and Accents, Vol 1, Track 11](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [David Clark](https://librivox.org/reader/7408) | david_clark.flac | English | [The Count of Monte Cristo (version 3), Track 117](https://librivox.org/the-count-of-monte-cristo-version-3-by-alexandre-dumas/) |
 | [David Jaquay](https://librivox.org/reader/55) | david_jaquay.flac | American | [Little Women, Track 11](https://librivox.org/little-women-by-louisa-may-alcott/) |
