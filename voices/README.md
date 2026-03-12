@@ -109,6 +109,7 @@
 | [Stephanie Dupal-Demartin](https://librivox.org/reader/2085) | stephanie_dupal-demartin.flac | American | [My Ántonia, Track 15](https://librivox.org/my-antonia-by-willa-cather/) |
 | [stepheather](https://librivox.org/reader/1668) | stepheather.flac | American | [Far Away and Long Ago, Track 9](https://librivox.org/far-away-and-long-ago-by-wh-hudson/) |
 | [Steve C](https://librivox.org/reader/7389) | steve_c.flac | English | [A Year's Prayer-Meeting Talks, Track 10](https://librivox.org/a-years-prayer-meeting-talks-by-louis-albert-banks/) |
+| [Steve Jackson](https://librivox.org/reader/7134) | steve_jackson.flac | American | [Anecdotes of Dogs, Track 2](https://librivox.org/anecdotes-of-dogs-by-edward-jesse/) |
 | [Steve Lawrence](https://librivox.org/reader/8691) | steve_lawrence.flac | English, Mid-England | [Celebration of Dialects and Accents, Vol 2, Track 20](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Stuart Bell](https://librivox.org/reader/1870) | stuart_bell.flac | English, Neutral, Southern | [Celebration of Dialects and Accents, Vol 1, Track 26](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Timothy Ferguson](https://librivox.org/reader/3618) | timothy_ferguson.flac | Australian, Cultivated | [Celebration of Dialects and Accents, Vol 1, Track 24](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
