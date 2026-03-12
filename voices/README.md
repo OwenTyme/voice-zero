@@ -42,6 +42,7 @@
 | [dullstar](https://librivox.org/reader/4252) | dullstar.flac | American, West Central Pennsylvania | [Celebration of Dialects and Accents, Vol 1, Track 23](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Elli](https://librivox.org/reader/3885) | elli.flac | Austrian (German) | [Celebration of Dialects and Accents, Vol 1, Track 5](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Emily Cripps](https://librivox.org/reader/18865) | emily_cripps.flac | English | [A Select Collection of Valuable and Curious Arts and Interesting Experiments, Track 22](https://librivox.org/a-select-collection-of-valuable-and-curious-arts-and-interesting-experiments-by-unknown/) |
+| [Emily Anderson](https://librivox.org/reader/7445) | emily_anderson.flac | American | [Japanese Girls and Women, Track 7](https://librivox.org/japanese-girls-and-women-by-alice-bacon/) |
 | [Ernst Pattynama](https://librivox.org/reader/2825) | ernst_pattynama.flac | English, Mother tongue: Dutch | [Celebration of Dialects and Accents, Vol 1, Track 16](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Ernst Pattynama](https://librivox.org/reader/2825) | ernst_pattynama2.flac | Dutch | [Celebration of Dialects and Accents, Vol 2, Track 6](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Ezwa](https://librivox.org/reader/123) | ezwa.flac | French | [Celebration of Dialects and Accents, Vol 1, Track 32](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
