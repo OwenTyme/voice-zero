@@ -60,6 +60,7 @@
 | [Karen Savage](https://librivox.org/reader/103) | karen_savage.flac | Canadian | [O Canada!, Track 8](https://librivox.org/o-canada/) |
 | [Kara Shallenberg](https://librivox.org/reader/19) | kara_shallenberg.flac | American, Southern California | [Celebration of Dialects and Accents, Vol 1, Track 17](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [kumarei](https://librivox.org/reader/374) | kumarei.flac | American | [Camille, Track 9](https://librivox.org/camille-by-alexandre-dumas-fils/) |
+| [Kathryn Louise](https://librivox.org/reader/7335) | kathryn_louise.flac | American | [Your Psychic Powers and How to Develop Them, Track 10](https://librivox.org/your-psychic-powers-and-how-to-develop-them-by-hereward-carrington/) |
 | [Kris Moore](https://librivox.org/reader/8841) | kris_moore.flac | Australian | [Celebration of Dialects and Accents, Vol 2, Track 10](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Kristen McQuillin](https://librivox.org/reader/89) | kristen_mcquillin.flac | American | [The Call of the Wild, Track 3](https://librivox.org/call-of-the-wild-by-jack-london/) |
 | [Kristin Barkhurst](https://librivox.org/reader/19894) | kristin_barkhurst.flac | American | [Holiday Stories for Young People, Track 32](https://librivox.org/holiday-stories-for-young-people-by-various/) |
