@@ -74,6 +74,7 @@
 | [Laura Caldwell](https://librivox.org/reader/1841) | laura_caldwell.flac | American, Southern | [The Yellow Fairy Book, Track 9](https://librivox.org/the-yellow-fairy-book-by-andrew-lang/) |
 | [Laurie Anne Walden](https://librivox.org/reader/1066) | laurie_anne_walden.flac | American, South Carolina | [Celebration of Dialects and Accents, Vol 1, Track 14](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Lars Rolander](https://librivox.org/reader/2234) | lars_rolander.flac | Swedish | [The Adventures of Jimmie Dale, Track 12](https://librivox.org/the-adventures-of-jimmie-dale-by-frank-l-packard/) |
+| [Lily Took](https://librivox.org/reader/7959) | lily_took.flac | American | [History of England from the Invasion of Julius Caesar to the Revolution of 1688, Volume 1C, Track 36](https://librivox.org/the-history-of-england-from-the-invasion-of-julius-caesar-to-the-revolution-of-1688-volume-1c-by-david-hume/) |
 | [Linda Jenner](https://librivox.org/reader/7702) | linda_jenner.flac | Australian | [Celebration of Dialects and Accents, Vol 2, Track 11](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Linda Johnson](https://librivox.org/reader/11049) | linda_johnson.flac | American | [Lodore, Track 23](https://librivox.org/lodore-by-mary-wollstonecraft-shelley/) |
 | [Lucy Burgoyne](https://librivox.org/reader/681) | lucy_burgoyne.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 35](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |

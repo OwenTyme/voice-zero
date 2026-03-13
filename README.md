@@ -12,6 +12,7 @@ A variety of tools were used to clean up the source data as much as possible, in
 
 * [Audacity](https://www.audacityteam.org/)
 	- The built-in noise remover can be handy
+	- Very rarely, this is also used to make slight speed changes
 * [Kanade Tokenizer](https://github.com/frothywater/kanade-tokenizer)
 	- Amazing tool that operates in two modes:
 		+ Voice Conversion
