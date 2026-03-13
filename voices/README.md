@@ -20,6 +20,7 @@
 | [Bill Mosley](https://librivox.org/reader/4570) | bill_mosley.flac | American, Texas, Metropolitan  | [Celebration of Dialects and Accents, Vol 2, Track 1](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Brett Condron](https://librivox.org/reader/1182) | brett_condron.flac | American | [Otto of the Silver Hand, Track 9](https://librivox.org/otto-of-the-silver-hand-by-howard-pyle/) |
 | [Bridget Gaige](https://librivox.org/reader/3584) | bridget_gaige.flac | American, Upstate New York | [Celebration of Dialects and Accents, Vol 1, Track 12](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [browneyedgirl32382](https://librivox.org/reader/4926) | browneyedgirl32382.flac | American | [A Simple Story, Track 50](https://librivox.org/a-simple-story-by-elizabeth-inchbald/) |
 | [Bellona Times.flac](https://librivox.org/reader/3657) | bellona_times.flac | American, 'Air Force Brat' | [Celebration of Dialects and Accents, Vol 1, Track 8](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Caden Vaugn Clegg](https://librivox.org/reader/6574) | caden_vaughn_clegg.flac | American | [Frankenstein, or the Modern Prometheus (version 3), Track 13](https://librivox.org/frankenstein-by-mary-shelley/) |
 | [Caden Vaugn Clegg](https://librivox.org/reader/6574) | caden_vaughn_clegg-gravel.flac | English?, Slight | [Frankenstein, or the Modern Prometheus (version 3), Track 13](https://librivox.org/frankenstein-by-mary-shelley/) |
