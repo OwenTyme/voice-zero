@@ -102,6 +102,7 @@
 | [Phillip Dyer](https://librivox.org/reader/7825) | phillip_dyer.flac | American | [The Principles of Economics with Applications to Practical Problems, Track 19](https://librivox.org/the-principles-of-economics-by-frank-albert-fetter/) |
 | [Rachael Nowotny](https://librivox.org/reader/8171) | rachael_nowotny.flac<br/>rachael_nowotny2.flac | Scottish | [Short Story Collection Vol. 055, Track 17](https://librivox.org/short-story-collection-vol-055-by-various/) |
 | [Rebecca Braunert-Plunkett](https://librivox.org/reader/8470) | rebecca_braunert-plunkett.flac | German/Mixed bag | [Celebration of Dialects and Accents, Vol 2, Track 15](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
+| [Reeses118](https://librivox.org/reader/6895) | reeses118.flac | American, Very slight lisp? | [Is He Popenjoy ?, Track 17](https://librivox.org/is-he-popenjoy-by-anthony-trollope/) |
 | [Robert Garrison](https://librivox.org/reader/439) | robert_garrison.flac | American | [The Hunting of the Snark, Track 1](https://librivox.org/the-hunting-of-the-snark-by-lewis-carroll/) |
 | [Rosslyn Carlyle](https://librivox.org/reader/9331) | rosslyn_carlyle.flac | Scottish | [The Revelation, Track 15](https://librivox.org/the-revelation-by-coventry-patmore/) |
 | [Ruth Golding](https://librivox.org/reader/2607) | ruth_golding.flac | English, Received Pronunciation ('No regional accent') | [Celebration of Dialects and Accents, Vol 1, Track 4](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
