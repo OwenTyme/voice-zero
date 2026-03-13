@@ -119,5 +119,6 @@
 | [Steve Lawrence](https://librivox.org/reader/8691) | steve_lawrence.flac | English, Mid-England | [Celebration of Dialects and Accents, Vol 2, Track 20](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Stuart Bell](https://librivox.org/reader/1870) | stuart_bell.flac | English, Neutral, Southern | [Celebration of Dialects and Accents, Vol 1, Track 26](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Timothy Ferguson](https://librivox.org/reader/3618) | timothy_ferguson.flac | Australian, Cultivated | [Celebration of Dialects and Accents, Vol 1, Track 24](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Tony Pettit](https://librivox.org/reader/850) | tony_pettit.flac | Australian, Cultivated | [The Federalist Papers, Track 30](https://librivox.org/the-federalist-papers-by-alexander-hamilton-john-jay-and-james-madison/) |
 | [Tricia G](https://librivox.org/reader/3157) | tricia_g.flac | American, Minnesota | [Celebration of Dialects and Accents, Vol 1, Track 19](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Tricia G](https://librivox.org/reader/3157) | tricia_g2.flac | American, Minnesota | [LibriVox 20th Anniversary Collection, Track 22](https://librivox.org/librivox-20th-anniversary-collection-by-various/) |
