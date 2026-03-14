@@ -43,6 +43,7 @@
 | [Diana Majlinger](https://librivox.org/reader/4009) | diana_majlinger2.flac | Hungarian | [Celebration of Dialects and Accents, Vol 2, Track 4](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Donald Malone](https://librivox.org/reader/7601) | donald_malone.flac | American, Midwestern | [Celebration of Dialects and Accents, Vol 2, Track 5](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [dullstar](https://librivox.org/reader/4252) | dullstar.flac | American, West Central Pennsylvania | [Celebration of Dialects and Accents, Vol 1, Track 23](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [DVoice](https://librivox.org/reader/6937) | dvoice.flac | American | [Bible (KJV) 19: Psalms (version 2), Track 19](https://librivox.org/psalms-kjv-v-2-by-king-james-version/) |
 | [Elli](https://librivox.org/reader/3885) | elli.flac | Austrian (German) | [Celebration of Dialects and Accents, Vol 1, Track 5](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Emily Cripps](https://librivox.org/reader/18865) | emily_cripps.flac | English | [A Select Collection of Valuable and Curious Arts and Interesting Experiments, Track 22](https://librivox.org/a-select-collection-of-valuable-and-curious-arts-and-interesting-experiments-by-unknown/) |
 | [Emily Anderson](https://librivox.org/reader/7445) | emily_anderson.flac | American | [Japanese Girls and Women, Track 7](https://librivox.org/japanese-girls-and-women-by-alice-bacon/) |
