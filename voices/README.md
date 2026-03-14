@@ -58,6 +58,7 @@
 | [Jason X.](https://librivox.org/reader/475) | jason_x.flac | American | [The Federalist Papers, Track 40](https://librivox.org/the-federalist-papers-by-alexander-hamilton-john-jay-and-james-madison/) |
 | [Jeanni Hall](https://librivox.org/reader/7416) | jeanni_hall.flac | American | [In the Nursery of My Bookhouse, Track 52](https://librivox.org/in-the-nursery-of-my-bookhouse-by-olive-beaupre-miller/) |
 | [Jessi](https://librivox.org/reader/3990) | jessi.flac | German | [Celebration of Dialects and Accents, Vol 1, Track 21](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [J. M. Smallheer](https://librivox.org/reader/688) | j_m_smallheer.flac | American | [A Vindication of the Rights of Woman, Track 7](https://librivox.org/a-vindication-of-the-rights-of-woman-by-mary-wollstonecraft/) |
 | [Jodi Krangle](https://librivox.org/reader/2061) | jodi_krangle.flac | American | [Short Science Fiction Collection 002, Track 5](https://librivox.org/short-science-fiction-collection-vol-002/) |
 | [Joy Easton](https://librivox.org/reader/3972) | joy_easton.flac | American, Southern Indiana | [Celebration of Dialects and Accents, Vol 1, Track 27](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Julia Niedermaier](https://librivox.org/reader/5424) | julia_niedermaier.flac | Austrian | [Celebration of Dialects and Accents, Vol 2, Track 9](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
