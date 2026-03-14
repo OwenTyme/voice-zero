@@ -52,6 +52,7 @@
 | [Graeme Dunlop](https://librivox.org/reader/4172) | graeme_dunlop.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 15](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Greg Giordano](https://librivox.org/reader/8011) | greg_giordano.flac | American, Southeastern Pennsylvania | [Celebration of Dialects and Accents, Vol 2, Track 7](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Ian Skillen](https://librivox.org/reader/1230) | ian_skillen.flac | Scottish | [The Clue of the Twisted Candle, Track 22](https://librivox.org/the-clue-of-the-twisted-candle-by-edgar-wallace/) |
+| [Jared Hess](https://librivox.org/reader/7475) | jared_hess.flac | American | [Days, Track 9](https://librivox.org/days-by-ralph-waldo-emerson/) |
 | [Jason Mills](https://librivox.org/reader/3470) | jason_mills.flac | English, Lancashire | [Celebration of Dialects and Accents, Vol 2, Track 8](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Jason X.](https://librivox.org/reader/475) | jason_x.flac | American | [The Federalist Papers, Track 40](https://librivox.org/the-federalist-papers-by-alexander-hamilton-john-jay-and-james-madison/) |
 | [Jeanni Hall](https://librivox.org/reader/7416) | jeanni_hall.flac | American | [In the Nursery of My Bookhouse, Track 52](https://librivox.org/in-the-nursery-of-my-bookhouse-by-olive-beaupre-miller/) |
