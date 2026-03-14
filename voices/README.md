@@ -72,6 +72,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Jodi Krangle](https://librivox.org/reader/2061) | jodi_krangle.flac | American | [Short Science Fiction Collection 002, Track 5](https://librivox.org/short-science-fiction-collection-vol-002/) |
 | [Jolie O'Dell](https://librivox.org/reader/7962) | jolie_odell.flac | American | [The Gentleman and Lady's Book of Politeness and Propriety of Deportment, Track 12](https://librivox.org/the-gentleman-and-ladys-book-of-politeness-and-propriety-of-deportment-by-elizabeth-celnart/) |
 | [Joy Easton](https://librivox.org/reader/3972) | joy_easton.flac | American, Southern Indiana | [Celebration of Dialects and Accents, Vol 1, Track 27](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [J. Rebecca Franklin](https://librivox.org/reader/3905) | j_rebecca_franklin.flac | American | [The Age of Chivalry, Track 12](https://librivox.org/age-of-chivalry-by-bulfinch/) |
 | [Julia Niedermaier](https://librivox.org/reader/5424) | julia_niedermaier.flac | Austrian | [Celebration of Dialects and Accents, Vol 2, Track 9](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Julie VW](https://librivox.org/reader/2506) | julie_vw.flac | Flemish, Slight | [Celebration of Dialects and Accents, Vol 1, Track 1](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Karen Savage](https://librivox.org/reader/103) | karen_savage.flac | Canadian | [O Canada!, Track 8](https://librivox.org/o-canada/) |
