@@ -1,5 +1,12 @@
 # Sources for this Directory
 
+**Please note:** The accents listed below are often based on guesswork and should be treated more like a rough guideline than fact, though the accents listed for voices from the two volumes of *Celebration of Dialects and Accents* should be accurate.
+
+In particular, some Canadians may be falsely categorized as American.
+
+If you're able to categorize the voices by location better than this, feel free to open an issue.  It would be nice to get the various uncategorized American accents pinned down to particular regions.
+
+
 | Name or Username  | File Name | Accent | Source |
 | ------------ | --------- | ------ | ------ |
 | [A. Janelle Risa](https://librivox.org/reader/4214) | a_janelle_risa.flac.flac | American | [Anne of Green Gables (version 5), Track 16](https://librivox.org/anne-of-green-gables-version-5-by-lucy-maud-montgomery/) |
@@ -126,6 +133,7 @@
 | [Steve Jackson](https://librivox.org/reader/7134) | steve_jackson.flac | American | [Anecdotes of Dogs, Track 2](https://librivox.org/anecdotes-of-dogs-by-edward-jesse/) |
 | [Steve Lawrence](https://librivox.org/reader/8691) | steve_lawrence.flac | English, Mid-England | [Celebration of Dialects and Accents, Vol 2, Track 20](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Stuart Bell](https://librivox.org/reader/1870) | stuart_bell.flac | English, Neutral, Southern | [Celebration of Dialects and Accents, Vol 1, Track 26](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [tamurile](https://librivox.org/reader/2256) | tamurile.flac | American | [Le Morte d'Arthur - Vol. 1, Track 45](https://librivox.org/le-morte-darthur-volume-1-by-sir-thomas-malory/) |
 | [Timothy Ferguson](https://librivox.org/reader/3618) | timothy_ferguson.flac | Australian, Cultivated | [Celebration of Dialects and Accents, Vol 1, Track 24](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Tony Pettit](https://librivox.org/reader/850) | tony_pettit.flac | Australian, Cultivated | [The Federalist Papers, Track 30](https://librivox.org/the-federalist-papers-by-alexander-hamilton-john-jay-and-james-madison/) |
 | [Tricia G](https://librivox.org/reader/3157) | tricia_g.flac | American, Minnesota | [Celebration of Dialects and Accents, Vol 1, Track 19](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
