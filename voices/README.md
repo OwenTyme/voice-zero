@@ -21,6 +21,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Anna Simon](https://librivox.org/reader/1724) | anna_simon.flac | Dutch | [Celebration of Dialects and Accents, Vol 1, Track 7](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Annie Coleman Rothenberg](https://librivox.org/reader/30) | annie_coleman_rothenberg.flac | American | [Aesop's Fables, Volume 01 (Fables 1-25), Track 6](https://librivox.org/aesops-fables-volume-1-fables-1-25/) |
 | [Annise]() | annise.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 3](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Bev J. Stevens](https://librivox.org/reader/3816) | bev_j_stevens.flac | American | [Through the Brazilian Wilderness, Track 34](https://librivox.org/through-the-brazilian-wilderness-by-theodore-roosevelt/) |
 | [Ben Gr](https://librivox.org/reader/4318) | ben_gr.flac | American, Western | [Celebration of Dialects and Accents, Vol 1, Track 34](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Ben Tucker](https://librivox.org/reader/16758) | ben_tucker.flac | America | [The Best Ghost Stories, Track 1](https://librivox.org/best-ghost-stories-by-various/) |
 | [Bill Boerst](https://librivox.org/reader/4788) | bill_boerst.flac | America | [Short Story Collection Vol. 042, Track 9](https://librivox.org/short-story-collection-vol-042-by-various/) |
@@ -140,5 +141,6 @@ If you're able to categorize the voices by location better than this, feel free 
 | [tamurile](https://librivox.org/reader/2256) | tamurile.flac | American | [Le Morte d'Arthur - Vol. 1, Track 45](https://librivox.org/le-morte-darthur-volume-1-by-sir-thomas-malory/) |
 | [Timothy Ferguson](https://librivox.org/reader/3618) | timothy_ferguson.flac | Australian, Cultivated | [Celebration of Dialects and Accents, Vol 1, Track 24](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Tony Pettit](https://librivox.org/reader/850) | tony_pettit.flac | Australian, Cultivated | [The Federalist Papers, Track 30](https://librivox.org/the-federalist-papers-by-alexander-hamilton-john-jay-and-james-madison/) |
-| [Tricia G](https://librivox.org/reader/3157) | tricia_g.flac | American, Minnesota | [Celebration of Dialects and Accents, Vol 1, Track 19](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
-| [Tricia G](https://librivox.org/reader/3157) | tricia_g2.flac | American, Minnesota | [LibriVox 20th Anniversary Collection, Track 22](https://librivox.org/librivox-20th-anniversary-collection-by-various/) |
+| [Tricia G.](https://librivox.org/reader/3157) | tricia_g.flac | American, Minnesota | [Celebration of Dialects and Accents, Vol 1, Track 19](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Tricia G.](https://librivox.org/reader/3157) | tricia_g2.flac | American, Minnesota | [LibriVox 20th Anniversary Collection, Track 22](https://librivox.org/librivox-20th-anniversary-collection-by-various/) |
+| [voicebynatalie](https://librivox.org/reader/7085) | voicebynatalie.flac | American | [The Toys of Peace, Track 12](https://librivox.org/the-toys-of-peace-by-saki/) |
