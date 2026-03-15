@@ -42,6 +42,50 @@ The [voices-emotion directory](voices-emotion) holds synthetic audio samples pro
 If there are ever samples under other licenses, they will be placed in other directories, to keep the licensing issues clear and easy to work with.
 
 
+## How Voice Samples Are Cleaned
+
+For the curious, here's the current process used for cleaning up new voice samples, before they're fed into [Chatterbox](https://github.com/resemble-ai/chatterbox):
+
+1) Import into [Audacity](https://www.audacityteam.org/)
+2) Trim sample to between 1 and 3 sentences at 8-11 seconds in length
+3) Remove the worst noise with [Audacity's](https://www.audacityteam.org/) noise removal tools
+4) Use [RNNoise](https://github.com/xiph/rnnoise) with VAD% set to 99
+5) Adjust speed via tempo changes to fix overly slow or fast speakers
+	* Fast and slow voices become highly problematic for producing emotional variations with [Chatterbox](https://github.com/resemble-ai/chatterbox)
+6) Normalize at -8 dB
+7) Save the sample
+8) Use [Kanade](https://github.com/frothywater/kanade-tokenizer) to resynthesize the sample, to remove reverb and other things [RNNoise](https://github.com/xiph/rnnoise) can't handle
+9) Normalize again, via [SoX](https://en.wikipedia.org/wiki/SoX)
+	* [Kanade](https://github.com/frothywater/kanade-tokenizer) is run via a script, so it was easy enough to add an automated normalization step
+10) Upscale the sample to 44 kHz via [Resemble Enhance](https://github.com/resemble-ai/resemble-enhance)
+	* [Kanade](https://github.com/frothywater/kanade-tokenizer) produces 24 kHz samples
+
+Most of the steps are optional and applied more or less as needed.  For example, manual noise removal via [Audacity](https://www.audacityteam.org/) is rarely needed, because the combination of [RNNoise](https://github.com/xiph/rnnoise) and [Kanade](https://github.com/frothywater/kanade-tokenizer) generally wipe out all noise, even reverb.
+
+
+## Contributing
+
+This repository is a one-man show, but there are two area in which contributions are welcome:
+
+* Accent Classification
+	- In particular, help would be appreciated with classifying the various American accents by region
+		+ There may be some Canadians mixed in, which should be clarified, if possible
+	- Some of the various UK accents may be incorrectly listed as English, when they're from other areas
+		+ Sorry, but one does the best one can, with limited knowledge!
+* Voice Suggestions
+	- LibriVox voice suggestions will always be welcome
+	- Voice samples from other source will also be considered
+	- **DO NOT** suggest voice samples that aren't in the public domain
+	- Accented voices are both desirable and useful
+	- Keep the following in mind, however:
+		+ The maintainer only speaks English and won't accept suggestions for voices in other languages
+			* The noise removal steps **require** understanding what's been spoken
+
+If you wish to clarify the accent of a voice or suggest a new voice, please file an issue.
+
+When suggesting a new voice, please try to determine the accent, based on country of origin and region, because the maintainer has little direct experience with such things.
+
+
 ## License
 
 Unless otherwise noted, all files in this repository are under the [CC0 license](https://creativecommons.org/public-domain/cc0/).  Currently, everything is based on samples from [LibriVox.org](https://librivox.org/).
