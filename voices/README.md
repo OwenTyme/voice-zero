@@ -50,6 +50,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Diana Majlinger](https://librivox.org/reader/4009) | diana_majlinger.flac | Hungarian | [Celebration of Dialects and Accents, Vol 1, Track 6](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Diana Majlinger](https://librivox.org/reader/4009) | diana_majlinger2.flac | Hungarian | [Celebration of Dialects and Accents, Vol 2, Track 4](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Donald Malone](https://librivox.org/reader/7601) | donald_malone.flac | American, Midwestern | [Celebration of Dialects and Accents, Vol 2, Track 5](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
+| [Douglas Harlon](https://archive.org/details/HowtheEy1941) | douglas_harlon.flac | American | [How the Eye Functions](https://archive.org/details/HowtheEy1941) |
 | [dullstar](https://librivox.org/reader/4252) | dullstar.flac | American, West Central Pennsylvania | [Celebration of Dialects and Accents, Vol 1, Track 23](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [DVoice](https://librivox.org/reader/6937) | dvoice.flac | American | [Bible (KJV) 19: Psalms (version 2), Track 19](https://librivox.org/psalms-kjv-v-2-by-king-james-version/) |
 | [Elli](https://librivox.org/reader/3885) | elli.flac | Austrian (German) | [Celebration of Dialects and Accents, Vol 1, Track 5](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
