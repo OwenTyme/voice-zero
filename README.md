@@ -65,7 +65,7 @@ Most of the steps are optional and applied more or less as needed.  For example,
 
 ## Contributing
 
-This repository is a one-man show, but there are two area in which contributions are welcome:
+This repository is a one-man show, but there are two areas in which contributions are welcome:
 
 * Accent Classification
 	- In particular, help would be appreciated with classifying the various American accents by region
