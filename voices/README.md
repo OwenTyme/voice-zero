@@ -78,6 +78,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Julie VW](https://librivox.org/reader/2506) | julie_vw.flac | Flemish, Slight | [Celebration of Dialects and Accents, Vol 1, Track 1](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Karen Savage](https://librivox.org/reader/103) | karen_savage.flac | Canadian | [O Canada!, Track 8](https://librivox.org/o-canada/) |
 | [Kara Shallenberg](https://librivox.org/reader/19) | kara_shallenberg.flac | American, Southern California | [Celebration of Dialects and Accents, Vol 1, Track 17](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Kent F.](https://librivox.org/reader/594) | kent_f.flac | American | [A Tale of Two Cities, Track 26](https://librivox.org/a-tale-of-two-cities-by-charles-dickens/) |
 | [kumarei](https://librivox.org/reader/374) | kumarei.flac | American | [Camille, Track 9](https://librivox.org/camille-by-alexandre-dumas-fils/) |
 | [Kathryn Louise](https://librivox.org/reader/7335) | kathryn_louise.flac | American | [Your Psychic Powers and How to Develop Them, Track 10](https://librivox.org/your-psychic-powers-and-how-to-develop-them-by-hereward-carrington/) |
 | [Kris Moore](https://librivox.org/reader/8841) | kris_moore.flac | Australian | [Celebration of Dialects and Accents, Vol 2, Track 10](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
