@@ -50,7 +50,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Diana Majlinger](https://librivox.org/reader/4009) | diana_majlinger.flac | Hungarian | [Celebration of Dialects and Accents, Vol 1, Track 6](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Diana Majlinger](https://librivox.org/reader/4009) | diana_majlinger2.flac | Hungarian | [Celebration of Dialects and Accents, Vol 2, Track 4](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Donald Malone](https://librivox.org/reader/7601) | donald_malone.flac | American, Midwestern | [Celebration of Dialects and Accents, Vol 2, Track 5](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
-| [Douglas Harlon](https://archive.org/details/HowtheEy1941) | douglas_harlon.flac | American | [How the Eye Functions](https://archive.org/details/HowtheEy1941) |
+| [Douglas Harlon](https://www.imdb.com/name/nm11569469/) | douglas_harlon.flac | American | [How the Eye Functions](https://archive.org/details/HowtheEy1941) |
 | [dullstar](https://librivox.org/reader/4252) | dullstar.flac | American, West Central Pennsylvania | [Celebration of Dialects and Accents, Vol 1, Track 23](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [DVoice](https://librivox.org/reader/6937) | dvoice.flac | American | [Bible (KJV) 19: Psalms (version 2), Track 19](https://librivox.org/psalms-kjv-v-2-by-king-james-version/) |
 | [Elli](https://librivox.org/reader/3885) | elli.flac | Austrian (German) | [Celebration of Dialects and Accents, Vol 1, Track 5](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
@@ -124,6 +124,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Rebecca Braunert-Plunkett](https://librivox.org/reader/8470) | rebecca_braunert-plunkett.flac | German/Mixed bag | [Celebration of Dialects and Accents, Vol 2, Track 15](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Reeses118](https://librivox.org/reader/6895) | reeses118.flac | American, Very slight lisp? | [Is He Popenjoy ?, Track 17](https://librivox.org/is-he-popenjoy-by-anthony-trollope/) |
 | [Robert Garrison](https://librivox.org/reader/439) | robert_garrison.flac | American | [The Hunting of the Snark, Track 1](https://librivox.org/the-hunting-of-the-snark-by-lewis-carroll/) |
+| [Robert Middleton](https://www.imdb.com/name/nm0585557/) | robert_middleton.flac | American, Ohio | [Duck and Cover](https://archive.org/details/DuckandC1951) |
 | [Rob Smith](https://librivox.org/reader/6075) | rob_smith.flac | American | [Nature's Miracles Volume 3: Electricity and Magnetism, Track 6](https://librivox.org/natures-miracles-electricity-and-magnetism-vol-3-by-elisha-gray/) |
 | [Rosslyn Carlyle](https://librivox.org/reader/9331) | rosslyn_carlyle.flac | Scottish | [The Revelation, Track 15](https://librivox.org/the-revelation-by-coventry-patmore/) |
 | [Ruth Golding](https://librivox.org/reader/2607) | ruth_golding.flac | English, Received Pronunciation ('No regional accent') | [Celebration of Dialects and Accents, Vol 1, Track 4](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
