@@ -35,7 +35,7 @@ A variety of tools were used to clean up the source data as much as possible, in
 
 ## Notes on Directories
 
-The [voices directory](voices) holds audio samples from [LibriVox.org](https://librivox.org), which have been noise reduced and trimmed to between seven and roughly twelve seconds, a length that works well for zero-shot TTS engines.  This directory will *always* hold [CC0-licensed](https://creativecommons.org/public-domain/cc0/) samples.
+The [voices directory](voices) holds audio samples from [LibriVox.org](https://librivox.org) and [Archive.org](https://archive.org), which have been noise reduced and trimmed to between seven and roughly twelve seconds, a length that works well for zero-shot TTS engines.  This directory will *always* hold [CC0-licensed](https://creativecommons.org/public-domain/cc0/) samples.
 
 The [voices-emotion directory](voices-emotion) holds synthetic audio samples produced by using [voices directory](voices) with [Chatterbox](https://github.com/resemble-ai/chatterbox), to produce emotional variations.
 
