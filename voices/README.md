@@ -36,6 +36,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Caro Davy](https://librivox.org/reader/10955) | caro_davy.flac | English | [LibriVox 20th Anniversary Collection, Track 25](https://librivox.org/librivox-20th-anniversary-collection-by-various/) |
 | [Carrie Mae Streb](https://librivox.org/reader/20156) | carrie_mae_streb.flac | American | [LibriVox 20th Anniversary Collection, Track 20](https://librivox.org/librivox-20th-anniversary-collection-by-various/) |
 | [Claudia Salto](https://librivox.org/reader/8337) | claudia_salto.flac | German | [Celebration of Dialects and Accents, Vol 2, Track 3](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
+| [Clayton J. Smith](https://librivox.org/reader/487) | clayton_j_smith.flac | American | [Paradise Lost, Track 9](https://librivox.org/paradise-lost-by-john-milton/) |
 | [Cori Samuel](https://librivox.org/reader/92) | cori_samuel.flac | English | [Black Beauty (version 2), Track 1](https://librivox.org/black-beauty-by-anna-sewell-version-2/) |
 | [Dave Chase](https://librivox.org/reader/2992) | dave_chase.flac | American | [At the Earth's Core, Track 5](https://librivox.org/at-the-earths-core-by-edgar-rice-burroughs/) |
 | [Dan Mason](https://librivox.org/reader/7828) | dan_mason.flac | American | [Tarzan the Untamed, Track 14](https://librivox.org/tarzan-the-untamed-by-edgar-rice-burroughs/) |
