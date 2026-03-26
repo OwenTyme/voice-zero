@@ -35,6 +35,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Caprisha Page](https://librivox.org/reader/7138) | caprisha_page.flac | American, Midwestern | [Celebration of Dialects and Accents, Vol 2, Track 2](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Caro Davy](https://librivox.org/reader/10955) | caro_davy.flac | English | [LibriVox 20th Anniversary Collection, Track 25](https://librivox.org/librivox-20th-anniversary-collection-by-various/) |
 | [Carrie Mae Streb](https://librivox.org/reader/20156) | carrie_mae_streb.flac | American | [LibriVox 20th Anniversary Collection, Track 20](https://librivox.org/librivox-20th-anniversary-collection-by-various/) |
+| [Christine Blachford](https://librivox.org/reader/614) | christine_blachford.flac | English | [The Rosary, Track 23](https://librivox.org/the-rosary-by-florence-louisa-barclay/) |
 | [Claudia Salto](https://librivox.org/reader/8337) | claudia_salto.flac | German | [Celebration of Dialects and Accents, Vol 2, Track 3](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Clayton J. Smith](https://librivox.org/reader/487) | clayton_j_smith.flac | American | [Paradise Lost, Track 9](https://librivox.org/paradise-lost-by-john-milton/) |
 | [Cori Samuel](https://librivox.org/reader/92) | cori_samuel.flac | English | [Black Beauty (version 2), Track 1](https://librivox.org/black-beauty-by-anna-sewell-version-2/) |
