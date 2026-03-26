@@ -78,7 +78,8 @@ If you're able to categorize the voices by location better than this, feel free 
 | [J. Rebecca Franklin](https://librivox.org/reader/3905) | j_rebecca_franklin.flac | American | [The Age of Chivalry, Track 12](https://librivox.org/age-of-chivalry-by-bulfinch/) |
 | [Julia Niedermaier](https://librivox.org/reader/5424) | julia_niedermaier.flac | Austrian | [Celebration of Dialects and Accents, Vol 2, Track 9](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Julie VW](https://librivox.org/reader/2506) | julie_vw.flac | Flemish, Slight | [Celebration of Dialects and Accents, Vol 1, Track 1](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
-| [Karen Savage](https://librivox.org/reader/103) | karen_savage.flac | Canadian | [O Canada!, Track 8](https://librivox.org/o-canada/) |
+| [Karen Savage](https://librivox.org/reader/103) | karen_savage.flac | American | [O Canada!, Track 8](https://librivox.org/o-canada/) |
+| [Karen Savage](https://librivox.org/reader/103) | karen_savage2.flac | English, Received Pronunciation | [The Voyages of Doctor Dolittle (version 2), Track 1](https://librivox.org/the-voyages-of-doctor-dolittle-by-hugh-lofting-2/) |
 | [Kara Shallenberg](https://librivox.org/reader/19) | kara_shallenberg.flac | American, Southern California | [Celebration of Dialects and Accents, Vol 1, Track 17](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Kent F.](https://librivox.org/reader/594) | kent_f.flac | American | [A Tale of Two Cities, Track 26](https://librivox.org/a-tale-of-two-cities-by-charles-dickens/) |
 | [kumarei](https://librivox.org/reader/374) | kumarei.flac | American | [Camille, Track 9](https://librivox.org/camille-by-alexandre-dumas-fils/) |
