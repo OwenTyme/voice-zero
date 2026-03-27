@@ -19,6 +19,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Andi](https://librivox.org/reader/4291) | andi.flac | American, Texas | [Celebration of Dialects and Accents, Vol 1, Track 28](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Andy](https://librivox.org/reader/2262) | andy.flac | Scottish | [Zadig or the Book of Fate, Track 11](https://librivox.org/zadig-or-the-book-of-fate-by-voltaire/) |
 | [Anna Simon](https://librivox.org/reader/1724) | anna_simon.flac | Dutch | [Celebration of Dialects and Accents, Vol 1, Track 7](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
+| [Anne Cheng](https://librivox.org/reader/2587) | anne_cheng.flac | English | [The Arabian Nights Entertainments, Volume 01, Track 18](https://librivox.org/the-arabian-nights-entertainments-volume-01-by-anonymous/) |
 | [Annie Coleman Rothenberg](https://librivox.org/reader/30) | annie_coleman_rothenberg.flac | American | [Aesop's Fables, Volume 01 (Fables 1-25), Track 6](https://librivox.org/aesops-fables-volume-1-fables-1-25/) |
 | [Annise]() | annise.flac | Australian | [Celebration of Dialects and Accents, Vol 1, Track 3](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Bev J. Stevens](https://librivox.org/reader/3816) | bev_j_stevens.flac | American | [Through the Brazilian Wilderness, Track 34](https://librivox.org/through-the-brazilian-wilderness-by-theodore-roosevelt/) |
