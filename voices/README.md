@@ -124,6 +124,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Peter Bishop](https://librivox.org/reader/6037) | peter_bishop.flac | English | [Short Ghost and Horror Collection 012, Track 20](https://librivox.org/short-ghost-and-horror-collection-012-by-various/) |
 | [Peter Yearsley](https://librivox.org/reader/167) | peter_yearsley.flac | English, London, South-East | [Celebration of Dialects and Accents, Vol 1, Track 9](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Phil Chenevert](https://librivox.org/reader/5717) | phil_chenevert.flac | American | [Careers of Danger and Daring, Track 26](https://librivox.org/careers-of-danger-and-daring-by-cleveland-moffett/) |
+| [Philippa](https://librivox.org/reader/2297) | philippa.flac | English | [The Count of Monte Cristo, Track 105](https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/) |
 | [Phillip Dyer](https://librivox.org/reader/7825) | phillip_dyer.flac | American | [The Principles of Economics with Applications to Practical Problems, Track 19](https://librivox.org/the-principles-of-economics-by-frank-albert-fetter/) |
 | [Rachel](https://librivox.org/reader/7356) | rachel.flac | American, Child | [Anne of the Island (version 4), Track 37](https://librivox.org/anne-of-the-island-version-4-by-lucy-maud-montgomery/) |
 | [Rachael Nowotny](https://librivox.org/reader/8171) | rachael_nowotny.flac<br/>rachael_nowotny2.flac | Scottish | [Short Story Collection Vol. 055, Track 17](https://librivox.org/short-story-collection-vol-055-by-various/) |
