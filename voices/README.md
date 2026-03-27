@@ -127,6 +127,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Philippa](https://librivox.org/reader/2297) | philippa.flac | English | [The Count of Monte Cristo, Track 105](https://librivox.org/the-count-of-monte-cristo-by-alexandre-dumas/) |
 | [Phillip Dyer](https://librivox.org/reader/7825) | phillip_dyer.flac | American | [The Principles of Economics with Applications to Practical Problems, Track 19](https://librivox.org/the-principles-of-economics-by-frank-albert-fetter/) |
 | [Rachel](https://librivox.org/reader/7356) | rachel.flac | American, Child | [Anne of the Island (version 4), Track 37](https://librivox.org/anne-of-the-island-version-4-by-lucy-maud-montgomery/) |
+| [Rachel Lintern](https://librivox.org/reader/2487) | rachel_lintern.flac | English | [Local Color Collection Vol. 001, Track 14](https://librivox.org/local-color-collection-vol-001/) |
 | [Rachael Nowotny](https://librivox.org/reader/8171) | rachael_nowotny.flac<br/>rachael_nowotny2.flac | Scottish | [Short Story Collection Vol. 055, Track 17](https://librivox.org/short-story-collection-vol-055-by-various/) |
 | [Rebecca Braunert-Plunkett](https://librivox.org/reader/8470) | rebecca_braunert-plunkett.flac | German/Mixed bag | [Celebration of Dialects and Accents, Vol 2, Track 15](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
 | [Reeses118](https://librivox.org/reader/6895) | reeses118.flac | American, Very slight lisp? | [Is He Popenjoy ?, Track 17](https://librivox.org/is-he-popenjoy-by-anthony-trollope/) |
