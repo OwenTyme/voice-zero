@@ -113,6 +113,7 @@ If you're able to categorize the voices by location better than this, feel free 
 | [Melora](https://librivox.org/reader/8075) | melora.flac | American | [Buttercup Gold And Other Stories, Track 2](https://librivox.org/buttercup-gold-and-other-stories-by-ellen-robena-field/) |
 | [Mezzogal](https://librivox.org/reader/4244) | mezzogal.flac | Chinese, Singapore | [Celebration of Dialects and Accents, Vol 1, Track 18](https://librivox.org/celebration-of-dialects-and-accents-vol-1/) |
 | [Mike Pelton](https://librivox.org/reader/6670) | mike_pelton.flac | American | [The Adventures of Buffalo Bill, Track 9](https://librivox.org/the-adventures-of-buffalo-bill-by-william-f-cody-col/) |
+| [Mil Nicholson](https://librivox.org/reader/2026) | mil_nicholson.flac | English | [Can You Forgive Her?, Track 78](https://librivox.org/can-you-forgive-her-by-anthony-trollope/) |
 | [Miranda Stinson](https://librivox.org/reader/1509) | miranda_stinson.flac | American | [Daisy Miller: A Study in Two Parts, Track 2](https://librivox.org/daisy-miller-by-henry-james) |
 | [Nancy Roberts](https://librivox.org/reader/2056) | nancy_roberts.flac | American | [The Portrait of a Lady, Volume 2, Track 18](https://librivox.org/portrait-of-a-lady-vol-2-by-henry-james/) |
 | [Nicholas James Bridgewater](https://librivox.org/reader/1618) | nicholas_james_bridgewater.flac | English, Mid-Atlantic | [Celebration of Dialects and Accents, Vol 2, Track 13](https://librivox.org/celebration-of-dialects-and-accents-vol-2-by-aesop/) |
