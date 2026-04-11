@@ -86,6 +86,11 @@ If you wish to clarify the accent of a voice or suggest a new voice, please file
 When suggesting a new voice, please try to determine the accent, based on country of origin and region, because the maintainer has little direct experience with such things.
 
 
+## Example Uses
+
+* [The Book of Newts: Starwitch](https://owentyme.bandcamp.com/album/the-book-of-newts-starwitch) - An audiobook the maintainer put together for one of his novels, with emotional reading for characters.  Voice-Zero provided all voices.  Some voices were voice converted, to give one voice the accent of another.
+
+
 ## License
 
 Unless otherwise noted, all files in this repository are under the [CC0 license](https://creativecommons.org/public-domain/cc0/).  Currently, everything is based on samples from [LibriVox.org](https://librivox.org/), [Archive.org](https://archive.org) and [freesound.org](https://freesound.org/).
